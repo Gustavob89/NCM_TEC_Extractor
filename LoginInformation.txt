@@ -1,0 +1,5 @@
+192.168.18.5
+3306
+ncm_tec
+SensorUser1
+Launch312Tiva
